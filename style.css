@@ -1,0 +1,101 @@
+body {
+    text-align: center;
+}
+
+#welcome {
+    color: black;
+    bottom: 0;
+    background:  lightyellow;
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+    font-size: 30px;
+    font-style: italic;
+}
+
+#events {
+    font-style: italic;
+    padding: 50px;
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 40px;
+    font-family: helvectica;
+    font-weight: 200;
+    font-style: italic;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+
+}
+
+.works_1 h3 {
+    display: inline;
+}
+
+.works_1 a {
+    text-shadow: none;
+}
+
+
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+
+}
+#icon{
+    width: 100px;
+    height: 100px;
+}
+h5{
+    font-size: 38;
+}
+#1{
+    width: 40px;
+    height: 40px;
+    
+}
+h2{
+    font-style: italic;
+    font-family: 'Dancing Script', cursive;
+    
+}
+#p1{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+}
+#p2{
+    font-family: 'Questrial', sans-serif;
+    font-size: 23px;
+}
+#p3{
+   font-family: 'Questrial', sans-serif;
+    font-size: 25;
+}
+#p4{
+    font-family: 'Poiret One', cursive;
+    font-size: 25;
+    
+}
+#p5{
+    font-size: 17;
+    font-family: 'Poiret One', cursive;
+}
+#p7{
+    font-family: 'Poiret One', cursive;
+    font-size: 17;
+}
+#p6{
+    font-size: 20;
+}
